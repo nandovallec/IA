@@ -1,0 +1,9 @@
+/home/falconskull/Desktop/IA/Practica2_Linux/Practica2/CMakeFiles/rebuild_cache.dir
+/home/falconskull/Desktop/IA/Practica2_Linux/Practica2/CMakeFiles/edit_cache.dir
+/home/falconskull/Desktop/IA/Practica2_Linux/Practica2/CMakeFiles/BelkanSG.dir
+/home/falconskull/Desktop/IA/Practica2_Linux/Practica2/CMakeFiles/GLUILib.dir
+/home/falconskull/Desktop/IA/Practica2_Linux/Practica2/CMakeFiles/Belkan.dir
+/home/falconskull/Desktop/IA/Practica2_Linux/Practica2/CMakeFiles/obj3DLib.dir
+/home/falconskull/Desktop/IA/Practica2_Linux/Practica2/CMakeFiles/motorLib.dir
+/home/falconskull/Desktop/IA/Practica2_Linux/Practica2/CMakeFiles/modelosBelkanLib.dir
+/home/falconskull/Desktop/IA/Practica2_Linux/Practica2/CMakeFiles/comportamientosLib.dir

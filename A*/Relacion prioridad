@@ -1,0 +1,19 @@
+L
+3: 5
+4: 7
+5: 9
+
+2n-1
+
+Diagonal
+3: 7
+4: 11
+5: 15
+6: 19
+
+4n -5
+
+
+(4n-5)/(2n-1) = 2 - (3/2n-1) Poco mas de la mitad
+			L con 10
+			Diagonal 18??
